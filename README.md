@@ -1,6 +1,6 @@
 # Hi, I'm Rostom Turki 👋
 
-🎓 **M1 Data Science Student** at [Centrale Lille](https://centralelille.fr/) – [Université de Lille](https://www.univ-lille.fr/).
+🎓 **M1 Data Science Student** at [Centrale Lille](https://centralelille.fr/) – [Université de Lille](https://www.univ-lille.fr/) – [IMT Nord Europe](https://imt-nord-europe.fr/).
 
 I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Engineering**.
 
