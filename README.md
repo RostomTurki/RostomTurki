@@ -24,7 +24,7 @@ I enjoy exploring new technologies, solving problems, and turning ideas into pra
 ### 📫 Let's Connect
 
 - GitHub: [@RostomTurki](https://github.com/RostomTurki)
-- Email: rostom.turki@univ-lille.tn
+- Email: rostom.turki@univ-lille.fr
 
 ---
 
