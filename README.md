@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rostom Turki 👋
 
-<!--
-**RostomTurki/RostomTurki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M1 Data Science Student** at [Centrale Lille](https://centralelille.fr/) – Université de Lille.
 
-Here are some ideas to get you started:
+I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring new technologies, solving problems, and turning ideas into practical projects. I'm continuously developing my technical skills through academic projects and personal experiments.
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL, JavaScript
+- **Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow
+- **Development:** Git, GitHub, FastAPI, PostgreSQL
+- **Interests:** Machine Learning, AI, Data Engineering, MLOps
+
+### 🚀 What I'm Working On
+
+- Exploring Machine Learning and Deep Learning.
+- Developing practical Data Science projects.
+- Improving my software engineering and programming skills.
+- Exploring AI applications and intelligent systems.
+
+### 📫 Let's Connect
+
+- GitHub: [@RostomTurki](https://github.com/RostomTurki)
+- Email: rostom.turki@etudiant-fst.utm.tn
+
+---
+
+⭐ *Always learning, always building.*
